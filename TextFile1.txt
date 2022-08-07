@@ -1,6 +1,4 @@
 ﻿
-https://zetcode.com/all/#csharp
-https://www.tutorialsteacher.com/csharp
 delegate
 LambdaExpression
 generic
