@@ -1,5 +1,5 @@
-﻿
-delegate
+﻿.NET5 - C#9 Tests
+Delegates
 LambdaExpression
-generic
-record
+Generic
+Record
