@@ -3,4 +3,6 @@
 * Delegates
 * LambdaExpression
 * Generic
-* Record
+* Records
+* Pattern matching
+* Action
