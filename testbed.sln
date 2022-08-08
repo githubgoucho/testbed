@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TableToJson", "TableToJson\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YieldWorkout", "YieldWorkout\YieldWorkout.csproj", "{EDB15F2C-EF42-4A5B-938D-0127E9982BD4}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PatternMatchingAction", "PatternMatchingAction\PatternMatchingAction.csproj", "{4BBFCFD7-2322-46BD-9D17-BE0FAED47740}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{EDB15F2C-EF42-4A5B-938D-0127E9982BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDB15F2C-EF42-4A5B-938D-0127E9982BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDB15F2C-EF42-4A5B-938D-0127E9982BD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BBFCFD7-2322-46BD-9D17-BE0FAED47740}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BBFCFD7-2322-46BD-9D17-BE0FAED47740}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BBFCFD7-2322-46BD-9D17-BE0FAED47740}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BBFCFD7-2322-46BD-9D17-BE0FAED47740}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
