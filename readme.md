@@ -3,6 +3,8 @@
 * Delegates
 * LambdaExpression
 * Generic
-* Records
+* Records Class
 * Pattern matching
 * Action
+# .NET6 - C#10 Snippets
+* Record Struct
