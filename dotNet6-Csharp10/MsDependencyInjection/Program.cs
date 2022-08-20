@@ -16,8 +16,10 @@ class Program
 
         builder.ConfigureServices(
             services =>
-                services.AddHostedService<Worker>()  // Dependency Injection
-                    .AddScoped<IMessageWriter, MessageWriter>());
+                services
+                    .AddHostedService<Worker>()  // Dependency Injection
+                    .AddScoped<IMessageWriter, MessageWriter>());  // Dependency Injection
+
 
         var host = builder.Build();
 
