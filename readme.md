@@ -9,4 +9,7 @@
 * Records Class
 * Pattern matching
 * Action
+# Design Pattern
+* Factory 
+* Observer
 
