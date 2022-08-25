@@ -23,7 +23,8 @@ namespace SerialTemplate
         List<Scenario> scenarios = new List<Scenario>
         {
             new Scenario() { Title="Connect", ClassType=typeof(SerialConnectDisconnectPage)},
-            new Scenario() { Title="Control", ClassType=typeof(SerialDeviceControlPage)}
+            new Scenario() { Title="Control", ClassType=typeof(SerialDeviceControlPage)},
+            new Scenario() { Title="Firmware", ClassType=typeof(SerialFirmware)}
         };
     }
 

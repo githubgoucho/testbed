@@ -133,6 +133,7 @@
     <Compile Include="SerialDeviceControlPage.xaml.cs">
       <DependentUpon>SerialDeviceControlPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="SerialFirmware.cs" />
     <Compile Include="Utilities.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -171,6 +172,10 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Include="SerialDeviceControlPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="SerialFirmware.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
