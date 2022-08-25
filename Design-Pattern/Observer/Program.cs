@@ -14,7 +14,7 @@ namespace Observer.DesignPattern
         {
             // FuckPoint :: Create Siemens stock and attach investors
 
-            Siemens siemens = new Siemens("Siemens", 120.00);
+            Siemens siemens = new Siemens("Siemens", 163.00);
             siemens.Attach(new Investor("Otte"));
             siemens.Attach(new Investor("Trump"));
 
@@ -25,9 +25,7 @@ namespace Observer.DesignPattern
             siemens.Price = 160.50;
             siemens.Price = 160.75;
 
-            // Wait for user
 
-            Console.ReadKey();
         }
     }
 
