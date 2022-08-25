@@ -12,4 +12,6 @@
 # Design Pattern
 * Factory 
 * Observer
+# UWP Experiments
+* connect serial device RS232, USB or Bluetooth
 
